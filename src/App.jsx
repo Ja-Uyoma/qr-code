@@ -1,4 +1,5 @@
 import qrcode from "./assets/image-qr-code.png";
+import "./App.css";
 
 export default function App() {
   return (
