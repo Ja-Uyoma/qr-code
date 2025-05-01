@@ -28,6 +28,8 @@ main {
     opacity: 100%;
     fill: var(--white);
     display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
     gap: 24px;
 }
 
