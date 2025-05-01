@@ -25,3 +25,11 @@ main {
     display: grid;
     gap: 24px;
 }
+
+img {
+    width: 288px;
+    height: 288px;
+    opacity: 100%;
+    border-radius: 10px;
+    fill: var(--blue-600);
+}
