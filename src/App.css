@@ -17,6 +17,11 @@
     --text-preset-2: 15px;
 }
 
+@font-face {
+    font-family: "Outfit";
+    src: url("./assets/Outfit/Outfit-VariableFont_wght.ttf") format("truetype");
+}
+
 main {
     padding: var(--space-200) var(--space-200) var(--space-500) var(--space-200);
     border-radius: 20px;
