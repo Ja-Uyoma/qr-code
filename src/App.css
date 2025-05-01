@@ -63,6 +63,7 @@ h2 {
     flex-grow: 1;
     line-height: 120%;
     letter-spacing: 0;
+    font-family: "Outfit";
 }
 
 p {
@@ -77,4 +78,5 @@ p {
     line-height: 140%;
     font-size: var(--text-preset-2);
     letter-spacing: 0.2px;
+    font-family: "Outfit";
 }
