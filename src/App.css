@@ -73,7 +73,7 @@ section {
     border-radius: 0;
 }
 
-h2 {
+h1 {
     text-align: center;
     vertical-align: top;
     font-size: var(--text-preset-1);
