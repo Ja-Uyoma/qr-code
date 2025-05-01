@@ -33,3 +33,17 @@ img {
     border-radius: 10px;
     fill: var(--blue-600);
 }
+
+section {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-200);
+    max-width: 288px;
+    min-height: 131px;
+    height: max-content;
+    width: 100%;
+    padding: 0 var(--space-200);
+    opacity: 100%;
+    border-radius: 0;
+}
