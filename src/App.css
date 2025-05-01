@@ -31,6 +31,10 @@ main {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr;
     gap: 24px;
+    min-width: 320px;
+    min-height: 499px;
+    width: fit-content;
+    height: fit-content;
 }
 
 img {
