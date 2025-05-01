@@ -44,10 +44,8 @@ section {
     display: flex;
     flex-direction: column;
     gap: var(--space-200);
-    max-width: 288px;
-    min-height: 131px;
-    height: max-content;
-    width: 100%;
+    width: 288px;
+    height: 131px;
     padding: 0 var(--space-200);
     opacity: 100%;
     border-radius: 0;
