@@ -16,3 +16,7 @@
     --text-preset-1: 22px;
     --text-preset-2: 15px;
 }
+
+main {
+    padding: var(--space-200) var(--space-200) var(--space-500) var(--space-200);
+}
