@@ -1,0 +1,18 @@
+:root {
+    /* Colours */
+    --white: hsl(0, 0%, 100%);
+    --slate-300: hsl(212, 45%, 89%);
+    --slate-500: hsl(216, 15%, 48%);
+    --slate-900: hsl(218, 44%, 22%);
+    --blue-500: #3685FF;
+    --blue-600: #2C7DFA;
+
+    /* Spacing */
+    --space-200: 16px;
+    --space-300: 24px;
+    --space-500: 40px;
+
+    /* Font size */
+    --text-preset-1: 22px;
+    --text-preset-2: 15px;
+}
