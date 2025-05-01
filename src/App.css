@@ -42,6 +42,7 @@ img {
 }
 
 section {
+    grid-column: span 1;
     text-align: center;
     display: flex;
     flex-direction: column;
