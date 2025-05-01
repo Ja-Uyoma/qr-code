@@ -26,7 +26,7 @@ main {
     padding: var(--space-200) var(--space-200) var(--space-500) var(--space-200);
     border-radius: 20px;
     opacity: 100%;
-    fill: var(--white);
+    background-color: var(--white);
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr;
@@ -42,7 +42,7 @@ img {
     height: 288px;
     opacity: 100%;
     border-radius: 10px;
-    fill: var(--blue-600);
+    background-color: var(--blue-600);
 }
 
 section {
