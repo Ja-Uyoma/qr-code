@@ -30,13 +30,6 @@
     border-radius: 0;
 }
 
-@media (min-width: 1440px) {
-    #root {
-        width: 1440px;
-        height: 960px;
-    }
-}
-
 main {
     padding: var(--space-200) var(--space-200) var(--space-500) var(--space-200);
     border-radius: 20px;
