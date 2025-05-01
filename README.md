@@ -16,9 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+- ![Desktop site](<Screenshot 2025-05-01 at 17-50-19 QR Code.png>)
+- ![Mobile site](<Screenshot 2025-05-01 at 17-58-52 QR Code.png>)
+
 ### Links
 
-- Solution URL:
+- Solution URL: [GitHub](https://github.com/Ja-Uyoma/qr-code)
 - Live Site URL:
 
 ## My process
