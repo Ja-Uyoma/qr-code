@@ -43,6 +43,7 @@ main {
     min-height: 499px;
     width: fit-content;
     height: fit-content;
+    margin: 0 auto;
 }
 
 img {
